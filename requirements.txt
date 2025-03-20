@@ -1,0 +1,14 @@
+Cython==0.29.33
+pandas==2.1.4
+numpy==1.23.4
+matplotlib==3.7.0
+seaborn==0.13.2
+scikit-learn==1.4.2
+#vtk==9.0.3
+#vedo==2024.5.1
+torch==1.12.1
+pillow==9.2.0
+pygco==0.0.16
+streamlit
+# python version = python 3.9.6
+ipykernal
